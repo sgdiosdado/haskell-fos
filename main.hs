@@ -1,3 +1,8 @@
+-- Equipo:
+-- * Sergio Diosdado      A00516971
+-- * Iñaki Janeiro        A00516978
+-- * Eduardo Guzmán Vega  A01194108
+
 -- rest_col
 resto_col :: [[Int]] -> [[Int]]
 resto_col [] = []
